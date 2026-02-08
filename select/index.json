@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Catherine",
+  "base_artist": "なとり",
+  "createdAt": "2026-02-08T08:06:49.317109Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FALL FROM GRACE FT. CATHERINE POCKSON OF ALPINES",
+      "artist": "Maya Jane Coles",
+      "has_synced": false,
+      "path": "select/01_FALL_FROM_GRACE_FT._CATHERINE_POCKSON_OF_ALPINES_Maya_Jane_Coles.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fall From Grace (feat. Catherine Pockson Of Alpines)",
+      "artist": "Maya Jane Coles",
+      "has_synced": false,
+      "path": "select/02_Fall_From_Grace_(feat._Catherine_Pockson_Of_Alpines)_Maya_Jane_Coles.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Black Metallic (Cover Of Catherine Wheel)",
+      "artist": "Hammock",
+      "has_synced": false,
+      "path": "select/03_Black_Metallic_(Cover_Of_Catherine_Wheel)_Hammock.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "St. Catherine",
+      "artist": "Ducktails",
+      "has_synced": true,
+      "path": "select/04_St._Catherine_Ducktails.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Catherine",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/05_Catherine_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Catherine",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/06_Catherine_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Catherine the Great",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/07_Catherine_the_Great_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Colours Fly And Catherine Wheel",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/08_Colours_Fly_And_Catherine_Wheel_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catherine Blake",
+      "artist": "My Dying Bride",
+      "has_synced": false,
+      "path": "select/09_Catherine_Blake_My_Dying_Bride.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catherine By the Sea",
+      "artist": "Paris Motel",
+      "has_synced": true,
+      "path": "select/10_Catherine_By_the_Sea_Paris_Motel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Catherine At The Wheel",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/11_Catherine_At_The_Wheel_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Song For Catherine",
+      "artist": "K's Choice",
+      "has_synced": true,
+      "path": "select/12_Song_For_Catherine_K's_Choice.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Catherine",
+      "artist": "Magic Man",
+      "has_synced": true,
+      "path": "select/13_Catherine_Magic_Man.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "St. Catherine St.",
+      "artist": "Deltron 3030",
+      "has_synced": false,
+      "path": "select/14_St._Catherine_St._Deltron_3030.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Complainte Pour Ste Catherine",
+      "artist": "Kate & Anna McGarrigle",
+      "has_synced": true,
+      "path": "select/15_Complainte_Pour_Ste_Catherine_Kate_&_Anna_McGarrigle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Catherine",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_Catherine_なとり.txt"
+    }
+  ]
+}
